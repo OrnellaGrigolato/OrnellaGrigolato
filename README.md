@@ -1,4 +1,4 @@
-![Presentation Video](hello-world.gif =2000x800)
+![Presentation Video](hello-world.gif=2000x800)
 
 <!--
 **OrnellaGrigolato/OrnellaGrigolato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
