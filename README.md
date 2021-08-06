@@ -1,8 +1,9 @@
 
 <img src="hello-world.gif" width="1000" height="300" />
-</br>
+<br/>
 >I'm a sixteen years old Frontend Developer. 
-</br>
+
+<br/>
 
 <a href="https://twitter.com/OrneGrigolato">
 <img align="left" alt="Ornella Grigolato Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
