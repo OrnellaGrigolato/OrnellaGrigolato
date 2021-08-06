@@ -1,4 +1,4 @@
-![Presentation Video](https://media.giphy.com/media/sgdmP5lVBWWeiycD1L/giphy.gif)
+![Presentation Video](https://www.media.giphy.com/media/sgdmP5lVBWWeiycD1L/giphy.gif)
 
 <!--
 **OrnellaGrigolato/OrnellaGrigolato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
