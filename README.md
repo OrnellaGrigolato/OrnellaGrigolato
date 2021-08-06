@@ -1,7 +1,7 @@
 
 <img src="hello-world.gif" width="1000" height="300" />
 </br>
->I'm a sixteen years old **Frontend Developer** 
+> I'm a sixteen years old **Frontend Developer. 
 </br>
 
 <a href="https://twitter.com/OrneGrigolato">
