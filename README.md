@@ -26,4 +26,5 @@ A frontend developer working with React. At the age of 13 I discovered this beau
 
 <br />
 
-![My tech stack](https://github.com/OrnellaGrigolato/OrnellaGrigolato/blob/main/techStack.jpg)
+<img src="./techStack.jpg" width="100%" />
+
