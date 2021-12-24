@@ -25,6 +25,7 @@
 A frontend developer working with React. At the age of 13 I discovered this beautiful world and from that moment on I continued learning and preparing myself to solve problems. 
 
 <br />
+<br />
 
 <img src="./techStack.jpg" width="100%" />
 
