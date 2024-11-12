@@ -5,9 +5,9 @@
     </td>
     <td style="vertical-align: middle; text-align: center;border:0px;">
       <div style="display: inline-block;">
-        <h3>Ornella Grigolato - Full Stack Developer</h3>
+        <h2 >Ornella Grigolato - Full Stack Developer</h2>
         <br />
-      <div style="margin-top: 16px;">
+      <div style="margin-top: 5px;">
           <a href="https://www.linkedin.com/in/ornella-grigolato" style="margin-right: 10px;">
             <img alt="Orne's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
           </a>
