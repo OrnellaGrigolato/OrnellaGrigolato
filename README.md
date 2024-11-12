@@ -1,9 +1,9 @@
-<table width="50%" align="center" style="table-layout: auto;">
+<table align="center" style="table-layout: auto; border-collapse: collapse;">
   <tr>
-    <td align="center" width="100" style="vertical-align: middle;">
+    <td align="center" width="100" style="vertical-align: middle; border: none;">
       <img src="./women.gif" width="80" height="80" />
     </td>
-    <td style="vertical-align: middle; text-align: center;">
+    <td style="vertical-align: middle; text-align: center; border: none;">
       <div style="display: inline-block;">
         <strong style="font-size: 20px;">Ornella Grigolato - Full Stack Developer</strong>
         <div style="margin-top: 16px;">
@@ -19,15 +19,15 @@
   </tr>
 </table>
 <br />
-
-<table width="100%" align="center" style="table-layout: auto; border:none">
+<table align="center" style="table-layout: auto; border-collapse: collapse;">
   <tr>
-    <td align="center" width="100" style="vertical-align: middle;">
-      <p  style="text-align: center; font-size: 15px">
+    <td align="center" width="600" style="vertical-align: middle; border: none;">
+      <p style="text-align: center; font-size: 15px; ">
 Motivated and highly skilled full stack developer with a passion for creating intuitive, visually appealing and functional websites. Looking to advance my career to leverage my broad curiosity in the tech world and grow as a professional. Proficient in English, +1 year of professional experience and strong desire to keep learning, I am eager to continue growing in this wonderful world that I am passionate about.
 </p>
     </td>
-   
+
+</td>
   </tr>
 </table>
 
