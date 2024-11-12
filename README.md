@@ -5,7 +5,7 @@
     </td>
     <td style="vertical-align: middle; text-align: center;border:0px;">
       <div style="display: inline-block;">
-        <strong style="font-size: 40px;">Ornella Grigolato - Full Stack Developer</strong>
+        <h3>Ornella Grigolato - Full Stack Developer</h3>
         <br />
       <div style="margin-top: 16px;">
           <a href="https://www.linkedin.com/in/ornella-grigolato" style="margin-right: 10px;">
