@@ -1,24 +1,16 @@
-<table align="center" style="table-layout: auto; border-collapse: collapse; border:0px solid white;">
-  <tr  style="border: 0px;">
-    <td align="center" width="100" style="vertical-align: middle; border:0px;">
-      <img src="./women.gif" width="80" height="80" />
-    </td>
-    <td style="vertical-align: middle; text-align: center;border:0px;">
-      <div style="display: inline-block;">
-        <h2 >Ornella Grigolato - Full Stack Developer</h2>
-        <br />
-      <div >
-          <a href="https://www.linkedin.com/in/ornella-grigolato" style="margin-right: 10px;">
+   <div style="display: inline;">
+        <h2 align="center">Ornella Grigolato - Full Stack Developer</h2>
+    <p align="center">
+          <a href="https://www.linkedin.com/in/ornella-grigolato">
             <img alt="Orne's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
           </a>
+           ㅤ
           <a href="mailto:grigolato.ornella@gmail.com">
             <img alt="Orne's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
           </a>
-        </div>
+        </p>
       </div>
-    </td>
-  </tr>
-</table>
+
 <br />
 
 <p style="text-align: center; font-size: 15px; ">
